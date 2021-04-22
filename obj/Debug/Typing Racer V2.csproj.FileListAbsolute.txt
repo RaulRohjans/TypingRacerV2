@@ -1,0 +1,10 @@
+C:\Users\Raul\Desktop\Typing Racer V2\Typing Racer V2\bin\Debug\Typing Racer V2.exe.config
+C:\Users\Raul\Desktop\Typing Racer V2\Typing Racer V2\bin\Debug\Typing Racer V2.exe
+C:\Users\Raul\Desktop\Typing Racer V2\Typing Racer V2\bin\Debug\Typing Racer V2.pdb
+C:\Users\Raul\Desktop\Typing Racer V2\Typing Racer V2\obj\Debug\Typing Racer V2.csprojAssemblyReference.cache
+C:\Users\Raul\Desktop\Typing Racer V2\Typing Racer V2\obj\Debug\Typing_Racer_V2.Form1.resources
+C:\Users\Raul\Desktop\Typing Racer V2\Typing Racer V2\obj\Debug\Typing_Racer_V2.Properties.Resources.resources
+C:\Users\Raul\Desktop\Typing Racer V2\Typing Racer V2\obj\Debug\Typing Racer V2.csproj.GenerateResource.cache
+C:\Users\Raul\Desktop\Typing Racer V2\Typing Racer V2\obj\Debug\Typing Racer V2.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Desktop\Typing Racer V2\Typing Racer V2\obj\Debug\Typing Racer V2.exe
+C:\Users\Raul\Desktop\Typing Racer V2\Typing Racer V2\obj\Debug\Typing Racer V2.pdb
